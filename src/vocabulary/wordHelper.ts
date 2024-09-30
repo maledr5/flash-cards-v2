@@ -1,4 +1,4 @@
-import { Word } from './wordParser'
+import { Word } from '../hooks/useVocabulary'
 
 const ALL_CATEGORIES = 'All Categories'
 const ALL_TYPES = 'All Types'
@@ -8,7 +8,7 @@ enum wordTypes {
 
 const __filterByCategory = (wordList: Word[], categoryFilter: string) => {
     if (categoryFilter === ALL_CATEGORIES) return wordList
-    return wordList.filter(word => word.categories.find(category => category === categoryFilter))
+    return wordList.filter(word => word.categories.find((category: string) => category === categoryFilter))
 }
 
 const __filterByType = (wordList: Word[], typeFilter: string) => {

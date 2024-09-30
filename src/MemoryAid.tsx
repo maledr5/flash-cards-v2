@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import VocabularyPractice from "./VocabularyPractice";
 import GenderPractice from "./GenderPractice";
 import useVocabulary from "./hooks/useVocabulary.ts";

@@ -1,4 +1,4 @@
-import React, { FC, useEffect, useRef, useState } from "react";
+import { FC, useEffect, useRef, useState } from "react";
 import { Word } from "./hooks/useVocabulary"
 import { getRandomWord, getWordsByType, wordTypes } from "./vocabulary/wordHelper";
 
