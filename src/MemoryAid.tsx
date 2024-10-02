@@ -13,7 +13,6 @@ const MemoryAid = () => {
     const [typeOfExercise, setTypeOfExercise] = useState(FILL_IN_TRANSLATIONS)
 
     useEffect(()=> {
-        console.log('MemoryAid - useEffect')
         setWordList(germanWords)
     }, [germanWords])
 

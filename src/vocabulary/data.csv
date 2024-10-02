@@ -1,18 +1,71 @@
 needsPractice,type,pronoun,singular,plural,translations,categories,class
-TRUE,skill,,Ich fange jetz an,,I am getting started now,trennbare,A2
-TRUE,skill,,Wir fangen morgen an,,We are starting tomorrow,trennbare,A2
-TRUE,skill,,Können wir anfangen,,Can we start?,trennbare,A2
+TRUE,verb,,einschlafen,,fall sleep,trennbare,A2
+TRUE,verb,,aufstehe,,"get up, levantarse",trennbare,A2
+TRUE,verb,,anfangen,,"begin, start",trennbare,A2
+TRUE,verb,,aufhören,,"stop, detener",trennbare,A2
+TRUE,verb,,absagen,,cancel,trennbare,A2
+TRUE,verb,,ausmachen,,"turn off, apagar",trennbare,A2
+TRUE,verb,,anmachen,,"turn on, prender",trennbare,A2
+TRUE,verb,,zumachen,,"close, cerrar",trennbare,A2
+TRUE,verb,,reinkommen,,"come in, entrar",trennbare,A2
+TRUE,verb,,eingehen,,"enter, ingresar",trennbare,A2
+TRUE,verb,,abholen,,"pick up, levantar",trennbare,A2
+TRUE,verb,,vorbereiten,,"prepare, preparar",trennbare,A2
+TRUE,verb,,aussteigen,,"get off, salir",trennbare,A2
+TRUE,verb,,umsteigen,,transfer,trennbare,A2
+TRUE,verb,,ankommen,,"arrive, llegar",trennbare,A2
+TRUE,verb,,vorbeikommen,,"come over, venir",trennbare,A2
+TRUE,verb,,mitkommen,,"come with, bring with",trennbare,A2
+TRUE,verb,,zurückkommen,,"come back, regresar",trennbare,A2
+TRUE,verb,,aufhängen,,"hanging, colgar",trennbare,A2
+TRUE,verb,,ausleere,,"empty, vaciar",trennbare,A2
+TRUE,verb,,aufräumen,,"clean up, limpiar",trennbare,A2
+TRUE,verb,,einladen,,invite,trennbare,A2
+TRUE,verb,,nachdenken,,"ponder, reflect",trennbare,A2
+TRUE,verb,,sich umdrehen,,turn around,trennbare,A2
+TRUE,verb,,umfallen,,"fall over, caerse",trennbare,A2
+TRUE,verb,,vorhaben,,to plan,trennbare,A2
+TRUE,verb,,vorstellen,,introduce,trennbare,A2
+TRUE,verb,,weggehen,,"go away, irse",trennbare,A2
+TRUE,verb,,wegnehmen,,"take away, quitar",trennbare,A2
+TRUE,verb,,zuhören,,listening,trennbare,A2
+TRUE,verb,,zurückgeben,,give back,trennbare,A2
+TRUE,modal_verb,,dürfen,,"may, allowed, podria",modal,A2
+TRUE,modal_verb,,muusen,,"must, debe",modal,A2
+TRUE,modal_verb,,kann,,"can, poder",modal,A2
+TRUE,modal_verb,,möchten,,"want, desear - formal",modal,A2
+TRUE,modal_verb,,wollen,,"want, desear - direct",modal,A2
+TRUE,modal_verb,,sollen,,"shoul, deberia",modal,A2
+TRUE,adjective,,verboten,,"forbidden, prohibido",general,A2
+TRUE,adjective,,erlaubt,,"allowed, permitido",general,A2
+TRUE,adjective,,ledig,,"single, soltero",general,A2
+TRUE,adverb,,hoffentlich,,hopefuly,general,A2
+TRUE,noun,das,Vergnügen,Vergnügen,"fun, diversion",general,A2
+TRUE,adverb,,leider,,unfortunately,general,A2
+TRUE,verb,,verlängern,,extend,general,A2
+TRUE,noun,der,Kopfschmerz,Kopfschmerzen,headache,general,A2
+TRUE,skill,,Kopfschmerzen haben,,have a headache,general,A2
+TRUE,noun,der,Bibliotheksausweis,,library card,general,A2
+TRUE,verb,,zeigen,,"to show, mostrar",general,A2
+TRUE,verb,,rauchen,,"smoke, fumar",general,A2
+TRUE,noun,das,Geschirr,Geschirre,"dishes, platos",general,A2
+TRUE,noun,der,Unterricht,Unterrichte,class,general,A2
+TRUE,noun,die,Möglichkeit,Möglichkeiten,possibility,general,A2
+TRUE,adverb,,damit,,"so that, para",general,A2
+TRUE,skill,,Ich fange jetzt an,,I am starting now,trennbare,A2
+TRUE,skill,,Wir fangen morgen an,,"We are starting tomorrow, we start tomorrow",trennbare,A2
+TRUE,skill,,Können wir anfangen?,,Can we start?,trennbare,A2
 TRUE,skill,,Wir haben schon angefangen,,We have already started,trennbare,A2
-TRUE,skill,,Sollen wir anfangen,,Shall we start,trennbare,A2
-TRUE,skill,,Wer will anfangen,,Who wants to start,trennbare,A2
-TRUE,skill,,Wann können wir anfangen,,When can we start,trennbare,A2
+TRUE,skill,,Sollen wir anfangen?,,"Shall we start?, should we start",trennbare,A2
+TRUE,skill,,Wer will anfangen?,,Who wants to start?,trennbare,A2
+TRUE,skill,,Wann können wir anfangen?,,When can we start?,trennbare,A2
 TRUE,skill,,Fang an!,,Go ahead!,trennbare,A2
 TRUE,skill,,Lass uns anfangen,,Let's start,trennbare,A2
 TRUE,skill,,Ich muss nochmal von vorne anfangen,,I have to start all over again,trennbare,A2
 TRUE,skill,,Der Film Fängt jetzt an,,The movie is starting now,trennbare,A2
 TRUE,skill,,Sie hat angefangen zu singen,,She started to sing,trennbare-b1,B1
-TRUE,skill,,Ich fange mit meinen Hausaufgaben an,,I'm starting my homework,trennbare,A2
-TRUE,skill,,"Ich fange an, meine Hausaufgaben zu machen",,I'm starting to do my homework,trennbare-b1,B1
+TRUE,skill,,Ich fange mit meinen Hausaufgaben an,,I am starting my homework,trennbare,A2
+TRUE,skill,,"Ich fange an, meine Hausaufgaben zu machen",,I am starting to do my homework,trennbare-b1,B1
 TRUE,skill,,Das Publikum had angegangen zu jubeln,,The audience started to cheer,trennbare-b1,B1
 TRUE,skill,,Das Publikum fing an zu jubeln (Präteritum),,The audience started to cheer,trennbare-b1,B1
 TRUE,skill,,Die Jungen fingen an zu lachen (Präteritum),,The boys started to laugh,trennbare-b1,B1
@@ -22,8 +75,23 @@ TRUE,skill,,Der Unterricht fängt morgen an,,The classes start tomorrow,trennbar
 TRUE,skill,,Ich höre jetzt auf,,I am stopping now,trennbare,A2
 TRUE,skill,,Die Musik hat aufgehört,,The music stop,trennbare,A2
 TRUE,skill,,Hör auf!,,Stop!,trennbare,A2
-TRUE,skill,,Wann können wir aufhören,,When can we stop?,trennbare,A2
+TRUE,skill,,Wann können wir aufhören?,,When can we stop?,trennbare,A2
 TRUE,skill,,Können wir bald aufhören?,,Can we stop soon?,trennbare,A2
 TRUE,skill,,Lass uns aufhören,,Let's stop,trennbare,A2
 TRUE,skill,,Warun hören sie nich auf?,,Why aren't they stopping?,trennbare,A2
 TRUE,skill,,Der Regen hat aufgehört,,It stopped raining,trennbare,A2
+TRUE,skill,,die Wäsche waschen,,to do the laundry,house-chores,A2
+TRUE,skill,,die Wäsche aufhängen,,to hang up the laundry,house-chores,A2
+TRUE,skill,,die Wäsche zusammenlegen,,to fold the laundry,house-chores,A2
+TRUE,skill,,die Betten machen,,to make the beds,house-chores,A2
+TRUE,skill,,den Müll rausbringen,,to take out the trash,house-chores,A2
+TRUE,skill,,den Tisch decken,,to set the table,house-chores,A2
+TRUE,skill,,den Tisch abräumen,,to clear the table,house-chores,A2
+TRUE,skill,,den Staub wischen,,to dust,house-chores,A2
+TRUE,skill,,die Fenster putzen,,to clean the windows,house-chores,A2
+TRUE,skill,,das Badezimmer reinigen,,to clean the bathroom,house-chores,A2
+TRUE,skill,,das Essen kochen,,to cook the food,house-chores,A2
+TRUE,skill,,den Rasen mähen,,to mow the lawn,house-chores,A2
+TRUE,skill,,den Hund füttern,,to feed the dog,house-chores,A2
+TRUE,skill,,die Pflanzen gießen,,to water the plants,house-chores,A2
+TRUE,skill,,das Bügeleisen benutzen,,to use the iron,house-chores,A2
